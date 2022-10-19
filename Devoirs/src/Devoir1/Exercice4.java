@@ -1,4 +1,4 @@
-package Devoir_1;
+package Devoir1;
 
 /** @author Anne Faury */
 
@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 
 
-public class TD4_Exercice4 {
+public class Exercice4 {
 
 		public static void main(String[] args) {
 

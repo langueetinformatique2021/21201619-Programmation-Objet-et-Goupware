@@ -5,5 +5,5 @@
  * @author anfau
  *
  */
-module test {
+module Devoirs {
 }
