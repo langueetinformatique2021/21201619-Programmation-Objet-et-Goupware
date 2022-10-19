@@ -13,13 +13,13 @@ public class Exercice4 {
 
 			int p1 = 10, p2 = 9, p3 = -1, p4 = 4, p5 = 8;
 			int p6;
-	/**
-	* Obtenir la médiane des variables p1, p2, p3, p4, p5 dans la variable p6.
-	*/	
+/**
+* Obtenir la médiane des variables p1, p2, p3, p4, p5 dans la variable p6.
+*/	
 				
-	/**
-	* Trouver la valeur max
-	*/
+/**
+* Trouver la valeur max
+*/
 					
 			int p7;
 			
@@ -42,9 +42,9 @@ public class Exercice4 {
 			
 //			System.out.println(p7);		
 					
-	/**
-	 * Trouver la valeur min
-	 */
+/**
+* Trouver la valeur min
+*/
 			
 			int p8;
 			
@@ -66,9 +66,9 @@ public class Exercice4 {
 			
 //			System.out.println(p8);				
 			
-	/**
-	* Créer une liste sans les valeurs max et min
-	*/
+/**
+* Créer une liste sans les valeurs max et min
+*/
 
 			ArrayList p = new ArrayList();
 			
@@ -97,9 +97,9 @@ public class Exercice4 {
 //	        System.out.println(p);
 
 
-	/**
-	* Trouver la médiane
-	*/
+/**
+* Trouver la médiane
+*/
 
 			p1 = (int) p.get(0);
 			p2 = (int) p.get(1);
@@ -134,5 +134,3 @@ public class Exercice4 {
 			
 		}
 	}
-
-
