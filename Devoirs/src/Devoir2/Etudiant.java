@@ -1,8 +1,6 @@
 package Devoir2;
 
-/**
- * @author Anne Faury
- */
+	/** @author Anne Faury */
 
 /** Création et gestion de Etudiant */
 public class Etudiant extends Promotion {

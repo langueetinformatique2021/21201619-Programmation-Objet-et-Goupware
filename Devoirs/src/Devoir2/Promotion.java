@@ -1,8 +1,6 @@
 package Devoir2;
 
-/**
- * @author Anne Faury
- */
+	/** @author Anne Faury */
 
 public abstract class Promotion {
 	private String type_etude;
