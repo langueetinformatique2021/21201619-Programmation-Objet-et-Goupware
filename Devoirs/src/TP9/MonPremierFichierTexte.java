@@ -8,7 +8,7 @@ public class MonPremierFichierTexte {
 	public static void main(String[] args) {
 
 		try {
-			PrintWriter pr = new PrintWriter(new File("21201619-Programmation-Objet-et-Goupware/Devoirs/src/TP9/Nom.txt"));
+			PrintWriter pr = new PrintWriter(new File("langueetinformatique2021/21201619-Programmation-Objet-et-Goupware/Devoirs/src/TP9/Nom.txt"));
 			pr.println("Victoria Eyhrabide");
 			pr.println("Claude Montacié");
 			pr.close();
