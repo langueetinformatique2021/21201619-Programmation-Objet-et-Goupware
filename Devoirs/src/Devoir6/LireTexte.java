@@ -29,7 +29,7 @@ public class LireTexte {
 	protected void Ouvrir() throws IOException {
 		try {
 		entrée = new BufferedReader(
-				new FileReader(new File("C:/Users/anfau/OneDrive/Documents/Mes données/Sorbonne Université/Cours/Programmation objet/Local Repository/2120161GI/FAURY_TD4/src/Devoir6/" + NomFichier)));
+				new FileReader(new File("21201619-Programmation-Objet-et-Goupware/Devoirs/src/Devoir6/" + NomFichier)));
 		ligne = entrée.readLine();
 		System.out.println(ligne);
 
