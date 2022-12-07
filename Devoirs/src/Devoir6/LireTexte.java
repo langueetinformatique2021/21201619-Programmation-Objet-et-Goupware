@@ -30,6 +30,7 @@ public class LireTexte {
 		try {
 		entrée = new BufferedReader(
 				new FileReader(new File("21201619-Programmation-Objet-et-Goupware/Devoirs/src/Devoir6/" + NomFichier)));
+		// en cas d'erreur vérifier le chemin du fichier
 		ligne = entrée.readLine();
 		System.out.println(ligne);
 
